@@ -1,19 +1,19 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "notes": "## What's New\n\nSee the [CHANGELOG](https://github.com/Adev74/shortcut-v2/blob/main/CHANGELOG.md) for details.\n\n## Download\n\nDownload the installer for your platform below.",
-  "pub_date": "2025-12-16T12:35:52.805Z",
+  "pub_date": "2025-12-16T13:10:29.362Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcm1DZGFpcFFyMFlkU09CMXlHTTYvOTMzSGgrK0pnQ0xnSVlNSnN2bEFEQVRkRkgyVm5MdG11QlZzTzQ3azBsQ1pNaFJGVnlpWnMreGh1REZaZnlYbVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODg4NTQ4CWZpbGU6U2hvcnRjdXRfMi4xLjFfeDY0LXNldHVwLmV4ZQordHVxdytGSlJtRG9XTG1mSk9obkcxTStQZHBUQW5hTTRZSjJNS0JHZmVhd0trZEtHYWpIbDhsbExxQm10V0ZUMGozR1FjaldkSzEySTZZV3F4RjZEZz09Cg==",
-      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.1/Shortcut_2.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcm9rMkpJUlVDbzZVMnZFNW9oOUN2OTl6bGpaMlUyTDhSNHN2UUdBTUhyQmtzWjhjN2RpWU9obnBTQTE5czhtRnFsRXRWZGRKTE9wSXRsS3ZQMndsMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODkwNjI1CWZpbGU6U2hvcnRjdXRfMi4xLjJfeDY0LXNldHVwLmV4ZQprMTdBS1hMTjcwM0ZIYVo3SmYrWldLb1REOTNQL2trTFo1QWIzMzBlVzdYaWE2b2lldVlrbTFSRXNiU0JNZzdWWmJHVkJZekhKOUVzdkwvNWxHb1pDQT09Cg==",
+      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.2/Shortcut_2.1.2_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcm1DZGFpcFFyMFlkU09CMXlHTTYvOTMzSGgrK0pnQ0xnSVlNSnN2bEFEQVRkRkgyVm5MdG11QlZzTzQ3azBsQ1pNaFJGVnlpWnMreGh1REZaZnlYbVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODg4NTQ4CWZpbGU6U2hvcnRjdXRfMi4xLjFfeDY0LXNldHVwLmV4ZQordHVxdytGSlJtRG9XTG1mSk9obkcxTStQZHBUQW5hTTRZSjJNS0JHZmVhd0trZEtHYWpIbDhsbExxQm10V0ZUMGozR1FjaldkSzEySTZZV3F4RjZEZz09Cg==",
-      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.1/Shortcut_2.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcm9rMkpJUlVDbzZVMnZFNW9oOUN2OTl6bGpaMlUyTDhSNHN2UUdBTUhyQmtzWjhjN2RpWU9obnBTQTE5czhtRnFsRXRWZGRKTE9wSXRsS3ZQMndsMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODkwNjI1CWZpbGU6U2hvcnRjdXRfMi4xLjJfeDY0LXNldHVwLmV4ZQprMTdBS1hMTjcwM0ZIYVo3SmYrWldLb1REOTNQL2trTFo1QWIzMzBlVzdYaWE2b2lldVlrbTFSRXNiU0JNZzdWWmJHVkJZekhKOUVzdkwvNWxHb1pDQT09Cg==",
+      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.2/Shortcut_2.1.2_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcmlaSllUNTNTVHp6QTh1WW8ydlhhcXJxTm5Qei95TG82bkxpSEFtOFprano2QXlOYTFzbEUxU2w4eHpkUE9mNjkwYkduc1AwWkl2bmlzajJpc0lHMWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODg4NTQ4CWZpbGU6U2hvcnRjdXRfMi4xLjFfeDY0X2VuLVVTLm1zaQpDT3FFYjY1UlJESWprWHFjQXpLckNHVE5MUzFiZndHZDFJaWgza2h1anJHaTg4MWRlcmx6TjNBR3ZpZnU4M3lYbjhPRVBkK1JqdHNXUE15Nlh5dThEdz09Cg==",
-      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.1/Shortcut_2.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcnQ4R1M1a1p3aU02bEVaWExBZ0dZNUxQNVJSOGJYeHNHNDhwQVA5Zkxac0djUjJMb1VYdnIxUE9MWnlYbUVHbUZab1RNbWJQN0x0c0VzVUxETVJaRFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODkwNjI1CWZpbGU6U2hvcnRjdXRfMi4xLjJfeDY0X2VuLVVTLm1zaQpkeVRTTHdyYXMxeHpkcXJHdjlkUTdEUE5PQkZnamhhazNPZWdoM01YcEZ4YUZiNFkrWUpLVmhCbnJMRFNJZWdoSUQwRlVpU24yUXJva09kTG9IZ3REdz09Cg==",
+      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.2/Shortcut_2.1.2_x64_en-US.msi"
     }
   }
 }
