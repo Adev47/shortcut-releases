@@ -1,6 +1,19 @@
 {
-  "version": "2.0.0",
-  "notes": "Initial release",
-  "pub_date": "2024-12-14T00:00:00Z",
-  "platforms": {}
+  "version": "2.1.1",
+  "notes": "## What's New\n\nSee the [CHANGELOG](https://github.com/Adev74/shortcut-v2/blob/main/CHANGELOG.md) for details.\n\n## Download\n\nDownload the installer for your platform below.",
+  "pub_date": "2025-12-16T12:35:52.805Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcm1DZGFpcFFyMFlkU09CMXlHTTYvOTMzSGgrK0pnQ0xnSVlNSnN2bEFEQVRkRkgyVm5MdG11QlZzTzQ3azBsQ1pNaFJGVnlpWnMreGh1REZaZnlYbVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODg4NTQ4CWZpbGU6U2hvcnRjdXRfMi4xLjFfeDY0LXNldHVwLmV4ZQordHVxdytGSlJtRG9XTG1mSk9obkcxTStQZHBUQW5hTTRZSjJNS0JHZmVhd0trZEtHYWpIbDhsbExxQm10V0ZUMGozR1FjaldkSzEySTZZV3F4RjZEZz09Cg==",
+      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.1/Shortcut_2.1.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcm1DZGFpcFFyMFlkU09CMXlHTTYvOTMzSGgrK0pnQ0xnSVlNSnN2bEFEQVRkRkgyVm5MdG11QlZzTzQ3azBsQ1pNaFJGVnlpWnMreGh1REZaZnlYbVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODg4NTQ4CWZpbGU6U2hvcnRjdXRfMi4xLjFfeDY0LXNldHVwLmV4ZQordHVxdytGSlJtRG9XTG1mSk9obkcxTStQZHBUQW5hTTRZSjJNS0JHZmVhd0trZEtHYWpIbDhsbExxQm10V0ZUMGozR1FjaldkSzEySTZZV3F4RjZEZz09Cg==",
+      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.1/Shortcut_2.1.1_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcXhLaktXTjZJcmlaSllUNTNTVHp6QTh1WW8ydlhhcXJxTm5Qei95TG82bkxpSEFtOFprano2QXlOYTFzbEUxU2w4eHpkUE9mNjkwYkduc1AwWkl2bmlzajJpc0lHMWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1ODg4NTQ4CWZpbGU6U2hvcnRjdXRfMi4xLjFfeDY0X2VuLVVTLm1zaQpDT3FFYjY1UlJESWprWHFjQXpLckNHVE5MUzFiZndHZDFJaWgza2h1anJHaTg4MWRlcmx6TjNBR3ZpZnU4M3lYbjhPRVBkK1JqdHNXUE15Nlh5dThEdz09Cg==",
+      "url": "https://github.com/Adev47/shortcut_v2/releases/download/v2.1.1/Shortcut_2.1.1_x64_en-US.msi"
+    }
+  }
 }
